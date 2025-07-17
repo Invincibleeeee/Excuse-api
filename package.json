@@ -1,0 +1,22 @@
+{
+  "name": "excuse-api",
+  "version": "1.0.0",
+  "description": "Fun Excuse Generator API with categories and random endpoint",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "excuse",
+    "api",
+    "fun",
+    "express"
+  ],
+  "author": "Kanhiya",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.1.10"
+  }
+}
